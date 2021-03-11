@@ -1,4 +1,10 @@
 <?php
+// Yudha Permana
+// 203040101
+// Shift Kamis 08.00 - 09.00
+?>
+
+<?php
 $jawabanIsset = "Isset adalah = Fungsi untuk memeriksa apakah suatu variabel sudah diset atau belum. Jika variabel sudah diset maka variabel akan mengembalikan nilai true, dan sebaliknya akan bernilai false. <br>";
 $jawabanEmpty = "Empty adalah = Fungsi untuk untuk memeriksa apakah sebuah variabel telah diisi atau tidak. Jika sebuah variabel telah diisi akan menghasilkan nilai false, dan bernilai true jika variabel tersebut belum diisi.";
 

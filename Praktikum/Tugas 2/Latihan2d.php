@@ -1,4 +1,10 @@
 <?php
+// Yudha Permana
+// 203040101
+// Shift Kamis 08.00 - 09.00
+?>
+
+<?php
 function hitungDeterminan($a, $b, $c, $d) {
     $determinan = (($a * $a) - ($b * $c));
 
