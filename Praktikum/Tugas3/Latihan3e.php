@@ -1,76 +1,82 @@
 <?php
-$sepatu = [
-    [
-        "gambar" => "sepatu1.png",
-        "nama" => "PREDATOR 20.3",
-        "jenis" => "Indoor",
-        "brand" => "Adidas",
-        "harga" => "Rp. 900.000",
-    ],
-    [
-        "gambar" => "sepatu2.png",
-        "nama" => "GOLETTO VII",
-        "jenis" => "Indoor",
-        "brand" => "Adidas",
-        "harga" => "Rp. 600.000",
-    ],
-    [
-        "gambar" => "sepatu3.png",
-        "nama" => "GOLETTO VII",
-        "jenis" => "Outdoor",
-        "brand" => "Adidas",
-        "harga" => "Rp. 500.000",
-    ],
-    [
-        "gambar" => "sepatu4.png",
-        "nama" => "COPA 20.3",
-        "jenis" => "Outdoor",
-        "brand" => "Adidas",
-        "harga" => "Rp. 400.000",
-    ],
-    [
-        "gambar" => "sepatu5.png",
-        "nama" => "NIKE PHANTOM GT CLUB IC",
-        "jenis" => "Indoor",
-        "brand" => "Nike",
-        "harga" => "Rp. 799.000",
-    ],
-    [
-        "gambar" => "sepatu6.png",
-        "nama" => "NIKE PHANTOM SCORPION ACADEMY IC",
-        "jenis" => "Indoor",
-        "brand" => "Nike",
-        "harga" => "Rp. 1.379.000",
-    ],
-    [
-        "gambar" => "sepatu7.png",
-        "nama" => "NIKE MERCURIAL DREAM SPEED SUPERFLY 8 ACADEMY MG",
-        "jenis" => "Outdoor",
-        "brand" => "Nike",
-        "harga" => "Rp. 1.429.000",
-    ],
-    [
-        "gambar" => "sepatu8.png",
-        "nama" => "CATALYST QUIVER FG",
-        "jenis" => "Outdoor",
-        "brand" => "Ortuseight",
-        "harga" => "Rp. 499.000",
-    ],
-    [
-        "gambar" => "sepatu9.png",
-        "nama" => "SWERVO HYDRA ELITE IN-MIDNIGHT",
-        "jenis" => "Indoor",
-        "brand" => "Specs",
-        "harga" => "Rp. 749.800",
-    ],
-    [
-        "gambar" => "sepatu10.png",
-        "nama" => "ACCELERATOR SATU ELITE IN-BLACK/SILVER ",
-        "jenis" => "Indoor",
-        "brand" => "Specs",
-        "harga" => "Rp. 799.800",
-    ],
-];
+// Yudha Permana
+// 203040101
+// Shift Kamis 08.00 - 09.00
+?>
+
+<?php
+    $sepatu = [
+        [
+            "gambar" => "sepatu1.png",
+            "nama" => "PREDATOR 20.3",
+            "jenis" => "Indoor",
+            "brand" => "Adidas",
+            "harga" => "Rp. 900.000",
+        ],
+        [
+            "gambar" => "sepatu2.png",
+            "nama" => "GOLETTO VII",
+            "jenis" => "Indoor",
+            "brand" => "Adidas",
+            "harga" => "Rp. 600.000",
+        ],
+        [
+            "gambar" => "sepatu3.png",
+            "nama" => "GOLETTO VII",
+            "jenis" => "Outdoor",
+            "brand" => "Adidas",
+            "harga" => "Rp. 500.000",
+        ],
+        [
+            "gambar" => "sepatu4.png",
+            "nama" => "COPA 20.3",
+            "jenis" => "Outdoor",
+            "brand" => "Adidas",
+            "harga" => "Rp. 400.000",
+        ],
+        [
+            "gambar" => "sepatu5.png",
+            "nama" => "NIKE PHANTOM GT CLUB IC",
+            "jenis" => "Indoor",
+            "brand" => "Nike",
+            "harga" => "Rp. 799.000",
+        ],
+        [
+            "gambar" => "sepatu6.png",
+            "nama" => "NIKE PHANTOM SCORPION ACADEMY IC",
+            "jenis" => "Indoor",
+            "brand" => "Nike",
+            "harga" => "Rp. 1.379.000",
+        ],
+        [
+            "gambar" => "sepatu7.png",
+            "nama" => "NIKE MERCURIAL DREAM SPEED SUPERFLY 8 ACADEMY MG",
+            "jenis" => "Outdoor",
+            "brand" => "Nike",
+            "harga" => "Rp. 1.429.000",
+        ],
+        [
+            "gambar" => "sepatu8.png",
+            "nama" => "CATALYST QUIVER FG",
+            "jenis" => "Outdoor",
+            "brand" => "Ortuseight",
+            "harga" => "Rp. 499.000",
+        ],
+        [
+            "gambar" => "sepatu9.png",
+            "nama" => "SWERVO HYDRA ELITE IN-MIDNIGHT",
+            "jenis" => "Indoor",
+            "brand" => "Specs",
+            "harga" => "Rp. 749.800",
+        ],
+        [
+            "gambar" => "sepatu10.png",
+            "nama" => "ACCELERATOR SATU ELITE IN-BLACK/SILVER ",
+            "jenis" => "Indoor",
+            "brand" => "Specs",
+            "harga" => "Rp. 799.800",
+        ],
+    ];
 $i = 1;
 ?>
 
