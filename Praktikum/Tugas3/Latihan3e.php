@@ -76,8 +76,7 @@
             "brand" => "Specs",
             "harga" => "Rp. 799.800",
         ],
-    ];
-$i = 1;
+    ]
 ?>
 
 <!DOCTYPE html>
@@ -108,15 +107,17 @@ $i = 1;
             </tr>
         </thead>
         <tbody>
+        <?php $i = 1; ?>
         <?php foreach ($sepatu as $spt) : ?>
             <tr>
-                <td style="text-align: center; font-weight: bold;"><?= $i++ ?></td>
+                <td style="text-align: center; font-weight: bold;"><?= $i ?></td>
                 <td style="text-align: center;"><img src="image/<?= $spt["gambar"]; ?>"></td>
                 <td><?= $spt["nama"]; ?></td>
                 <td><?= $spt["jenis"]; ?></td>
                 <td><?= $spt["brand"]; ?></td>
                 <td><?= $spt["harga"]; ?></td>   
             </tr>
+        <?php $i++; ?>
         <?php endforeach ?>
         </tbody>
     </table>
