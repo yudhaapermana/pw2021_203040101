@@ -63,11 +63,9 @@
             "assist"=>"12"
         ]
     ];
-
 $total_main = 0;
 $total_gol = 0;
 $total_assist = 0;
-$i = 1;
 ?>
 
 <!DOCTYPE html>
@@ -95,16 +93,17 @@ $i = 1;
                 <th>GOL</th>
                 <th>ASSIST</th>
             </tr>
+            <?php $i = 1; ?>
             <?php foreach($pemain_bola as $pmn) : ?>
                 <tr>
-                    <td><?= $i++ ?></td>
+                    <td><?= $i ?></td>
                     <td><?= $pmn["nama"] ?></?>
                     <td><?= $pmn["club"] ?></td>
                     <td><?= $pmn["main"] ?></td>
                     <td><?= $pmn["gol"] ?></td>
                     <td><?= $pmn["assist"] ?></td>
                 </tr>
-                <?php
+                <?php $i++;
                 $total_main += $pmn["main"];
                 $total_gol += $pmn["gol"];
                 $total_assist += $pmn["assist"];
