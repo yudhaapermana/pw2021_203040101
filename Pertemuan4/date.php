@@ -6,7 +6,7 @@ Pertemuan 4
 */
 
 // Date
-// Untuk Menampilkan Tanggal dengan formattertentu
+// Untuk menampilkan tanggal dengan format tertentu
 // echo date("l, d-M-Y");
 
 // Time 
