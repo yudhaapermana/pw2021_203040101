@@ -19,7 +19,7 @@ Pertemuan 4
 //  membuat sendiri detik
 //  mktime(0,0,0,0,0,0)
 //  jam, menit, detik, bulan, tanggal, tahun
-// echo date ("l", mktime(0,0,0,8,25,1985));
+//  echo date ("l", mktime(0,0,0,8,25,1985));
 
 // strtotime
 echo date("l", strtotime("25 aug 1985"));
