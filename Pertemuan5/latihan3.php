@@ -4,16 +4,13 @@ $mahasiswa = [
     ["Dadang Sari", "827365019", "Teknik Informatika", "dasar345@gmaill.com"],
     ["Asep Mikel", "867401837", "Teknik Industri", "asepmik22@gmaill.com"]
 ];
-
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Daftar Mahasiswa</title>
 </head>
-
 <body>
 
     <h1>Daftar Mahasiswa</h1>
@@ -26,7 +23,7 @@ $mahasiswa = [
             <li>Email : <?= $mhs[3]; ?></li>
         </ul>
     <?php endforeach; ?>
-    
+
 </body>
 
 </html>
