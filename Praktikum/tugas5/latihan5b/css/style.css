@@ -1,0 +1,35 @@
+.container {
+    font-family: courier new, sans-serif;
+}
+.gambar {
+    width: 220px;
+}
+.nama {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 15px;
+}       
+.btn {
+    font-size: 12px;
+}
+/* Form Tambah dan Ubah Data */
+.form-tambah {
+    background-color: #f6e6e4;
+	width: 500px;
+	margin: 20px auto;
+	padding: 20px 20px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 7px;
+}
+.isi-tambah {
+	font-size: 17px;
+}
+h4 {
+    font-family: Arial, sans-serif;
+    background-color: #e2bcb7;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 8px;
+    margin-bottom: 20px;
+}
