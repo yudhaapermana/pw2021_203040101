@@ -1,0 +1,75 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image:	url(../assets/img/repeated-square.png);
+}
+
+.container {
+  font-family: courier new, sans-serif;
+  margin-top: 110px;
+  margin-bottom: 50px;
+}
+.navbar {
+  box-shadow: 0px -1px 15px rgba(0, 0, 0, 0.3);
+  height: 55px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+input {
+  height: 35px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: Helvetica, sans-serif;
+}
+
+h3 {
+  width: auto;
+  color: rgb(0, 0, 0);
+  border-radius: 2px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 21px;
+  margin: 20px auto 40px;
+  padding: 23px;
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.card:hover {
+  box-shadow: 1px 5px 12px rgba(0, 0, 0, 0.4);
+}
+
+h5 {
+  font-size: 13px;
+  font-weight: bold;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.gambar {
+  margin:-7px auto 8px;
+
+}
+
+.harga {
+  font-size: 13px;
+  margin-top: -5px;
+}
+
+hr {
+  margin-top: 10px;
+}
+
+.btn {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+

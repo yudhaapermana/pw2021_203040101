@@ -1,0 +1,25 @@
+body {
+  background-image: url(../assets/img/repeated-square.png);
+}
+.foto {
+  background-color: rgb(237, 237, 237);
+}
+
+.detail {
+  color: rgb(61, 61, 61);
+  font-family: 'Roboto', monospace;
+  font-size: 20px;
+  margin: auto;
+}
+.detail .nama {
+  font-size: 32px;
+  font-weight: bold;
+}
+.detail2 {
+  margin-top: 30px;
+}
+hr {
+  background-color: #d6d3d3;
+  height: 0.2px;
+  margin-bottom: 35px;
+}
